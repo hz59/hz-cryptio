@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: TRY Vesterbro;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #b5d3d3;
+  font-weight: 800;
+  color: var(--color-primary-400);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
